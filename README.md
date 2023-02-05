@@ -1,3 +1,3 @@
 # JWT-Authentication-and-Authorisation
 Greetings, I am excited to present my project - a JWT Authentication and Authorization system, developed using the cutting-edge technologies of Spring Boot 3 and Spring Security 6. The project showcases my proficiency in the implementation of JWT security, providing robust protection for sensitive information and allowing only authorized access. This project is perfect for both students and professionals seeking to expand their knowledge of JWT security and the latest advancements in the field. The project recreates the following picture: ![jwt-project](https://user-images.githubusercontent.com/87601009/216807891-d5d54ccd-ce06-4708-95cb-a9837e405b0e.jpg)
-The only thing when using my project is to connet it to your local database and you are redy to go!
+The only thing when using my project is to connect it to your local database and you are redy to go!
